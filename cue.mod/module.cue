@@ -1,1 +1,7 @@
-module: "github.com/rogpeppe/cuetest-SchemaStore-schemastore@v0"
+{
+	module: "github.com/rogpeppe/cuetest-schemastore@v0"
+	language: {
+		version: ""
+	}
+	deps: {}
+}
